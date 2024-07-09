@@ -1,6 +1,11 @@
 # 🧡 DA-Integration
 ![alt-текст](https://i.imgur.com/PZIsLTG.png "MMM баннер")
 
+<p align="center">
+  <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/fet1sov/DA-Integration/total?label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=%2303fc0b">
+</p>
+
+
 #### Простой плагин для сервера на ядре [Tshock](https://github.com/Pryaxis/TShock) который принимает события в реальном времени с сервиса приёма пожертвований [DonationAlerts](https://www.donationalerts.com/). Данный плагин взаимодействует с сервером [Centifugo](https://centrifugal.github.io/centrifugo/) от [DonationAlerts](https://www.donationalerts.com/) в реальном времени.
 
 # 🛠 Используемые библиотеки 
